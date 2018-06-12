@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: PlayerMaterial
+  m_Shader: {fileID: 4800000, guid: 8492dd6f4ccd1984082f319182b84e71, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: e0c0d709820fc70488d864f85a425ff7, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BumpMap
+        second:
+          m_Texture: {fileID: 2800000, guid: 73be8c153f127db4dab0a6f3f7013813, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _ActualMainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: a4c46391acad9c447a845dfd5744eb15, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _Cutoff
+        second: 0
+      data:
+        first:
+          name: _Shininess
+        second: .150772795
+      data:
+        first:
+          name: _LineWidth
+        second: .0120000001
+      data:
+        first:
+          name: _RimPower
+        second: 3.04464293
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: 1, g: 1, b: 1, a: 0}
+      data:
+        first:
+          name: _SpecColor
+        second: {r: .283743143, g: .284599245, b: .301476747, a: 1}
+      data:
+        first:
+          name: _LineColor
+        second: {r: 1, g: .513731062, b: .141181707, a: 1}
+      data:
+        first:
+          name: _RimColor
+        second: {r: .198529422, g: .198529422, b: .198529422, a: 0}

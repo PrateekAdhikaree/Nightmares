@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: HellephantMaterial
+  m_Shader: {fileID: 4800000, guid: 8492dd6f4ccd1984082f319182b84e71, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: e0c0d709820fc70488d864f85a425ff7, type: 3}
+          m_Scale: {x: 2, y: 2}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BumpMap
+        second:
+          m_Texture: {fileID: 2800000, guid: bd473d7a86fc07048aec91521a623e03, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _SpecColor
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Detail
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _ActualMainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: d93566e2c451de64b9ed680ab7299fce, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DissolveMap
+        second:
+          m_Texture: {fileID: 2800000, guid: e0c0d709820fc70488d864f85a425ff7, type: 3}
+          m_Scale: {x: 3, y: 3}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _MainColor
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _Cutoff
+        second: 0
+      data:
+        first:
+          name: _Shininess
+        second: .160943255
+      data:
+        first:
+          name: _LineWidth
+        second: .0178571437
+      data:
+        first:
+          name: _RimPower
+        second: 5.1500001
+      data:
+        first:
+          name: _DissolveVal
+        second: 1.20000005
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _SpecColor
+        second: {r: .283737004, g: .284593105, b: .301470578, a: 1}
+      data:
+        first:
+          name: _LineColor
+        second: {r: 1, g: .513725519, b: .141176477, a: 1}
+      data:
+        first:
+          name: _RimColor
+        second: {r: .127147585, g: .124572523, b: .235300094, a: 0}
