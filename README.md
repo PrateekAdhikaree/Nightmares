@@ -20,13 +20,15 @@ An infinity survival shooter game with incremental waves
 
 ## Installation:
 
+Download the project and follow the steps below as per your OS.
+
 ### Windows
 
-Navigate to /Builds/Windows and run the .exe file to install
+Navigate to _/Builds/Windows_ and run the _.exe_ file to install
 
 ### MacOS
 
-Navigate to /Builds/MacOS and run the .app file to install
+Navigate to _/Builds/MacOS_ and run the _.app_ file to install
 
 ## Game Menu:
 
