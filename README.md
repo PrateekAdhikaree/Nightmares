@@ -20,7 +20,7 @@ An infinity survival shooter game with incremental waves
 
 ## Installation:
 
-Download the project and follow the steps below as per your OS.
+**Download the project and follow the steps (based on your OS):**
 
 ### Windows
 
