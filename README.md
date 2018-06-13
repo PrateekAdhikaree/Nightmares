@@ -18,6 +18,16 @@ Inspired by the Unity 3D tutorial at https://unity3d.com/learn/tutorials/s/survi
 
 An infinity survival shooter game with incremental waves
 
+## Installation:
+
+### Windows
+
+Navigate to /Builds/Windows and run the .exe file to install
+
+### MacOS
+
+Navigate to /Builds/MacOS and run the .app file to install
+
 ## Game Menu:
 
 ![game_menu](https://github.com/PrateekAdhikaree/Nightmares/blob/master/images/game_menu.jpg "Pause/Game Menu")
